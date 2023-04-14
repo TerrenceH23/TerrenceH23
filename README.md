@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TerrenceH23/osticket-prereqs)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/TerrenceH23/ticket-lifecycle)
+  - [osTicket: Post Installation](https://github.com/TerrenceH23/post-installation)
 - <b>Microsoft Azure</b>
   - [Configuring Remote Desktop](https://github.com/TerrenceH23/remote-desktop)
 
